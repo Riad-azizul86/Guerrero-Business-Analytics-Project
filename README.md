@@ -3,7 +3,7 @@
 
 ## 📊 Executive Dashboard
 ![Project Dashboard]
-(profile-Dashboard.png (2))
+(profile-Dashboard.png)
 
 ## 🎯 Project Overview
 This project transforms raw sales data into a prescriptive business model. It covers the full analytical lifecycle from data cleaning to risk simulation.
