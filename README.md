@@ -2,7 +2,8 @@
 **Methodology:** Based on "Business Analytics: The Art of Modeling with Spreadsheets" (Guerrero)
 
 ## 📊 Executive Dashboard
-![Project Dashboard](Dashboard.png (2).png)
+![Project Dashboard]
+(profile-Dashboard.png (2))
 
 ## 🎯 Project Overview
 This project transforms raw sales data into a prescriptive business model. It covers the full analytical lifecycle from data cleaning to risk simulation.
